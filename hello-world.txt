@@ -1,1 +1,2 @@
 This is my first time using vs code in ubuntu
+Testing the git commit without "-m"
